@@ -36,9 +36,9 @@ bla bla bla
 
 try finding it on [Google](https://www.google.com/webhp?hl=pl&sa=X&ved=0ahUKEwj-i9nf0Pv9AhWeQ_EDHSDmDNwQPAgI)
 
-class img:
+ img:
 
-![class-icon](e03.png)
+![javascript logo](JavaScript-logo.png)
 
 internal links
 
@@ -51,4 +51,13 @@ Which of the following is a programming language:
 - [ ] html
 - [ ] css
 - [x] C#
+
+tables:
+|column 1|column 2|column 3|
+|--------|--------|--------|
+|servos  |ciao    |hello   |
+
+
+I'd love to have a :pizza:
+
 
