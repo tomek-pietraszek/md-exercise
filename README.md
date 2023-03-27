@@ -58,6 +58,6 @@ tables:
 |servos  |ciao    |hello   |
 
 
-I'd love to have a :pizza:
+I'd love to have a :pizza: and :coffee:
 
 
